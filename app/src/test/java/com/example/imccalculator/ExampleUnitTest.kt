@@ -1,4 +1,4 @@
-package com.example.miprimerappp
+package com.example.imccalculator
 
 import org.junit.Test
 

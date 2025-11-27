@@ -1,4 +1,4 @@
-package com.example.miprimerappp.models
+package com.example.imccalculator.models
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

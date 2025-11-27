@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.miprimerappp"
+    namespace = "com.example.imccalculator"
     compileSdk {
         version = release(36)
     }

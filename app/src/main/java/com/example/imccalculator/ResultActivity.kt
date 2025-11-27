@@ -1,12 +1,9 @@
-package com.example.miprimerappp
+package com.example.imccalculator
 
 import android.os.Bundle
 import android.widget.TextView
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.example.miprimerappp.models.IMCResult
+import com.example.imccalculator.models.IMCResult
 
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
